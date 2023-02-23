@@ -2,8 +2,6 @@
 
 **`.NET Developer`**
 
-I began my programming experiences with simple websites. I like it, so I try to gather as much experience as I can. Currently, I am working on my own projects focusing on the backend in ASP.NET Core. I am looking for a job as a Junior .NET Developer, wanting to gain experience and become a fullstack developer in the future.
-
 ---
 ### Languages and Tools 
 
